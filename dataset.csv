@@ -1,0 +1,101 @@
+Store ID,Timestamp,Visitor Count,Weather Condition,Day of Week,Season,Special Event,Store Type,Store Location,Retail Area,Holiday
+Store_3,2024-11-01 9:00:00,48,Cloudy,Friday,Autumn,None,Electronics,Ground Floor,Large,No
+Store_8,2024-11-01 10:00:00,80,Sunny,Friday,Autumn,Holiday Promotion,Umbrella & Rainwear,Ground Floor,Large,No
+Store_4,2024-11-01 11:00:00,57,Rainy,Friday,Autumn,Holiday Promotion,Clothing,Ground Floor,Large,No
+Store_19,2024-11-01 12:00:00,32,Sunny,Friday,Autumn,None,Footwear,Ground Floor,Medium,No
+Store_3,2024-11-01 13:00:00,25,Cloudy,Friday,Autumn,None,Umbrella & Rainwear,Near Food Court,Small,No
+Store_5,2024-11-01 14:00:00,27,Rainy,Friday,Autumn,None,Footwear,Near Food Court,Small,No
+Store_5,2024-11-01 15:00:00,12,Rainy,Friday,Autumn,None,Toys,Ground Floor,Medium,No
+Store_19,2024-11-01 16:00:00,22,Rainy,Friday,Autumn,None,Footwear,Second Floor,Small,No
+Store_20,2024-11-01 17:00:00,16,Cloudy,Friday,Autumn,None,Clothing,Ground Floor,Medium,No
+Store_19,2024-11-01 18:00:00,47,Rainy,Friday,Autumn,None,Electronics,Second Floor,Large,No
+Store_19,2024-11-01 19:00:00,67,Sunny,Friday,Autumn,Sale,Electronics,Near Food Court,Large,No
+Store_20,2024-11-01 20:00:00,93,Sunny,Friday,Autumn,Sale,Groceries,Second Floor,Large,No
+Store_5,2024-11-01 21:00:00,75,Sunny,Friday,Autumn,Holiday Promotion,Clothing,First Floor,Small,No
+Store_14,2024-11-01 22:00:00,62,Rainy,Friday,Autumn,Sale,Footwear,First Floor,Small,No
+Store_7,2024-11-01 23:00:00,67,Sunny,Friday,Autumn,None,Toys,Ground Floor,Large,No
+Store_17,2024-11-02 0:00:00,49,Cloudy,Saturday,Autumn,Holiday Promotion,Umbrella & Rainwear,Ground Floor,Medium,No
+Store_9,2024-11-02 1:00:00,49,Rainy,Saturday,Autumn,Sale,Clothing,Second Floor,Large,No
+Store_7,2024-11-02 2:00:00,49,Rainy,Saturday,Autumn,None,Toys,Near Food Court,Medium,No
+Store_8,2024-11-02 3:00:00,28,Cloudy,Saturday,Autumn,Holiday Promotion,Footwear,Near Food Court,Small,No
+Store_3,2024-11-02 4:00:00,55,Cloudy,Saturday,Autumn,Sale,Clothing,First Floor,Large,No
+Store_19,2024-11-02 5:00:00,26,Sunny,Saturday,Autumn,None,Umbrella & Rainwear,First Floor,Medium,No
+Store_19,2024-11-02 6:00:00,29,Cloudy,Saturday,Autumn,None,Footwear,Near Food Court,Medium,No
+Store_3,2024-11-02 7:00:00,72,Sunny,Saturday,Autumn,Holiday Promotion,Toys,Near Food Court,Large,No
+Store_15,2024-11-02 8:00:00,53,Rainy,Saturday,Autumn,Sale,Electronics,First Floor,Small,No
+Store_17,2024-11-02 9:00:00,29,Sunny,Saturday,Autumn,None,Electronics,Near Food Court,Medium,No
+Store_13,2024-11-02 10:00:00,22,Rainy,Saturday,Autumn,None,Groceries,First Floor,Medium,No
+Store_5,2024-11-02 11:00:00,39,Rainy,Saturday,Autumn,Sale,Footwear,Near Food Court,Medium,No
+Store_5,2024-11-02 12:00:00,53,Rainy,Saturday,Autumn,Holiday Promotion,Groceries,Near Food Court,Large,No
+Store_16,2024-11-02 13:00:00,66,Cloudy,Saturday,Autumn,Holiday Promotion,Clothing,First Floor,Large,No
+Store_8,2024-11-02 14:00:00,26,Sunny,Saturday,Autumn,None,Electronics,First Floor,Small,No
+Store_20,2024-11-02 15:00:00,65,Sunny,Saturday,Autumn,Holiday Promotion,Umbrella & Rainwear,First Floor,Large,No
+Store_20,2024-11-02 16:00:00,57,Cloudy,Saturday,Autumn,Holiday Promotion,Toys,First Floor,Small,No
+Store_14,2024-11-02 17:00:00,31,Sunny,Saturday,Autumn,None,Umbrella & Rainwear,Ground Floor,Medium,No
+Store_17,2024-11-02 18:00:00,89,Sunny,Saturday,Autumn,Holiday Promotion,Toys,Ground Floor,Small,No
+Store_16,2024-11-02 19:00:00,82,Sunny,Saturday,Autumn,Sale,Umbrella & Rainwear,Near Food Court,Medium,No
+Store_11,2024-11-02 20:00:00,44,Sunny,Saturday,Autumn,None,Groceries,Near Food Court,Medium,No
+Store_15,2024-11-02 21:00:00,31,Sunny,Saturday,Autumn,None,Groceries,Second Floor,Large,No
+Store_4,2024-11-02 22:00:00,42,Rainy,Saturday,Autumn,Holiday Promotion,Electronics,Ground Floor,Small,No
+Store_7,2024-11-02 23:00:00,37,Rainy,Saturday,Autumn,Sale,Footwear,Near Food Court,Small,No
+Store_18,2024-11-03 0:00:00,75,Sunny,Sunday,Autumn,Sale,Toys,Near Food Court,Small,No
+Store_10,2024-11-03 1:00:00,71,Sunny,Sunday,Autumn,Holiday Promotion,Electronics,Ground Floor,Large,No
+Store_4,2024-11-03 2:00:00,55,Sunny,Sunday,Autumn,None,Footwear,Ground Floor,Small,No
+Store_16,2024-11-03 3:00:00,17,Cloudy,Sunday,Autumn,None,Toys,Second Floor,Small,No
+Store_11,2024-11-03 4:00:00,87,Sunny,Sunday,Autumn,Sale,Clothing,Near Food Court,Small,No
+Store_12,2024-11-03 5:00:00,43,Rainy,Sunday,Autumn,None,Electronics,Ground Floor,Large,No
+Store_9,2024-11-03 6:00:00,69,Sunny,Sunday,Autumn,Holiday Promotion,Umbrella & Rainwear,Ground Floor,Small,No
+Store_2,2024-11-03 7:00:00,22,Cloudy,Sunday,Autumn,None,Clothing,First Floor,Small,No
+Store_5,2024-11-03 8:00:00,16,Rainy,Sunday,Autumn,None,Footwear,Ground Floor,Small,No
+Store_3,2024-11-03 9:00:00,39,Sunny,Sunday,Autumn,None,Clothing,Near Food Court,Large,No
+Store_6,2024-11-03 10:00:00,16,Cloudy,Sunday,Autumn,None,Footwear,First Floor,Large,No
+Store_8,2024-11-03 11:00:00,55,Sunny,Sunday,Autumn,Holiday Promotion,Umbrella & Rainwear,Second Floor,Large,No
+Store_8,2024-11-03 12:00:00,93,Sunny,Sunday,Autumn,Holiday Promotion,Electronics,Ground Floor,Small,No
+Store_19,2024-11-03 13:00:00,50,Cloudy,Sunday,Autumn,None,Umbrella & Rainwear,First Floor,Medium,No
+Store_11,2024-11-03 14:00:00,92,Sunny,Sunday,Autumn,Holiday Promotion,Electronics,Ground Floor,Small,No
+Store_13,2024-11-03 15:00:00,71,Sunny,Sunday,Autumn,None,Electronics,Second Floor,Small,No
+Store_2,2024-11-03 16:00:00,39,Sunny,Sunday,Autumn,None,Electronics,Second Floor,Large,No
+Store_2,2024-11-03 17:00:00,57,Sunny,Sunday,Autumn,Holiday Promotion,Electronics,Ground Floor,Medium,No
+Store_6,2024-11-03 18:00:00,88,Sunny,Sunday,Autumn,Sale,Electronics,Ground Floor,Large,No
+Store_7,2024-11-03 19:00:00,77,Rainy,Sunday,Autumn,Sale,Groceries,Second Floor,Medium,No
+Store_2,2024-11-03 20:00:00,38,Sunny,Sunday,Autumn,Sale,Toys,Near Food Court,Small,No
+Store_17,2024-11-03 21:00:00,48,Rainy,Sunday,Autumn,Sale,Groceries,Ground Floor,Small,No
+Store_14,2024-11-03 22:00:00,19,Cloudy,Sunday,Autumn,None,Footwear,Second Floor,Large,No
+Store_20,2024-11-03 23:00:00,38,Sunny,Sunday,Autumn,None,Electronics,Near Food Court,Large,No
+Store_17,2024-11-04 0:00:00,54,Cloudy,Monday,Autumn,Holiday Promotion,Electronics,Near Food Court,Small,No
+Store_7,2024-11-04 1:00:00,98,Rainy,Monday,Autumn,Holiday Promotion,Umbrella & Rainwear,First Floor,Medium,No
+Store_4,2024-11-04 2:00:00,35,Rainy,Monday,Autumn,None,Footwear,Ground Floor,Medium,No
+Store_3,2024-11-04 3:00:00,71,Sunny,Monday,Autumn,Holiday Promotion,Clothing,Ground Floor,Medium,No
+Store_5,2024-11-04 4:00:00,37,Cloudy,Monday,Autumn,None,Toys,Ground Floor,Large,No
+Store_9,2024-11-04 5:00:00,87,Sunny,Monday,Autumn,Sale,Umbrella & Rainwear,Ground Floor,Small,No
+Store_13,2024-11-04 6:00:00,59,Rainy,Monday,Autumn,Sale,Footwear,Near Food Court,Small,No
+Store_2,2024-11-04 7:00:00,69,Sunny,Monday,Autumn,Holiday Promotion,Clothing,First Floor,Medium,No
+Store_18,2024-11-04 8:00:00,58,Sunny,Monday,Autumn,Holiday Promotion,Clothing,Near Food Court,Small,No
+Store_7,2024-11-04 9:00:00,20,Rainy,Monday,Autumn,None,Clothing,Near Food Court,Small,No
+Store_4,2024-11-04 10:00:00,62,Sunny,Monday,Autumn,None,Clothing,Near Food Court,Large,No
+Store_1,2024-11-04 11:00:00,68,Sunny,Monday,Autumn,Holiday Promotion,Toys,Near Food Court,Small,No
+Store_15,2024-11-04 12:00:00,67,Rainy,Monday,Autumn,Sale,Electronics,First Floor,Medium,No
+Store_9,2024-11-04 13:00:00,16,Rainy,Monday,Autumn,None,Groceries,First Floor,Small,No
+Store_4,2024-11-04 14:00:00,61,Sunny,Monday,Autumn,Sale,Umbrella & Rainwear,Ground Floor,Large,No
+Store_4,2024-11-04 15:00:00,34,Sunny,Monday,Autumn,None,Umbrella & Rainwear,Near Food Court,Small,No
+Store_11,2024-11-04 16:00:00,46,Sunny,Monday,Autumn,Holiday Promotion,Electronics,Second Floor,Medium,No
+Store_12,2024-11-04 17:00:00,36,Sunny,Monday,Autumn,None,Footwear,First Floor,Large,No
+Store_7,2024-11-04 18:00:00,68,Sunny,Monday,Autumn,Holiday Promotion,Electronics,Near Food Court,Large,No
+Store_4,2024-11-04 19:00:00,70,Rainy,Monday,Autumn,Holiday Promotion,Toys,Near Food Court,Small,No
+Store_3,2024-11-04 20:00:00,12,Rainy,Monday,Autumn,None,Toys,Ground Floor,Large,No
+Store_5,2024-11-04 21:00:00,55,Sunny,Monday,Autumn,None,Footwear,Near Food Court,Small,No
+Store_4,2024-11-04 22:00:00,77,Sunny,Monday,Autumn,None,Groceries,First Floor,Small,No
+Store_20,2024-11-04 23:00:00,98,Sunny,Monday,Autumn,Holiday Promotion,Groceries,Near Food Court,Large,No
+Store_15,2024-11-05 0:00:00,61,Sunny,Tuesday,Autumn,None,Umbrella & Rainwear,Ground Floor,Small,No
+Store_14,2024-11-05 1:00:00,84,Sunny,Tuesday,Autumn,Holiday Promotion,Footwear,Ground Floor,Large,No
+Store_20,2024-11-05 2:00:00,74,Sunny,Tuesday,Autumn,None,Electronics,Ground Floor,Medium,No
+Store_6,2024-11-05 3:00:00,82,Sunny,Tuesday,Autumn,Holiday Promotion,Umbrella & Rainwear,First Floor,Large,No
+Store_19,2024-11-05 4:00:00,88,Sunny,Tuesday,Autumn,Holiday Promotion,Umbrella & Rainwear,Near Food Court,Medium,No
+Store_1,2024-11-05 5:00:00,60,Sunny,Tuesday,Autumn,None,Footwear,Ground Floor,Large,No
+Store_4,2024-11-05 6:00:00,64,Sunny,Tuesday,Autumn,Holiday Promotion,Footwear,Ground Floor,Medium,No
+Store_13,2024-11-05 7:00:00,36,Cloudy,Tuesday,Autumn,Holiday Promotion,Toys,Ground Floor,Medium,No
+Store_8,2024-11-05 8:00:00,45,Sunny,Tuesday,Autumn,None,Footwear,First Floor,Small,No
+Store_19,2024-11-05 9:00:00,65,Rainy,Tuesday,Autumn,None,Umbrella & Rainwear,Near Food Court,Small,No
+Store_11,2024-11-05 10:00:00,31,Cloudy,Tuesday,Autumn,None,Umbrella & Rainwear,Second Floor,Large,No
+Store_12,2024-11-05 11:00:00,71,Sunny,Tuesday,Autumn,Sale,Groceries,First Floor,Medium,No
+Store_7,2024-11-05 12:00:00,27,Sunny,Tuesday,Autumn,None,Toys,Near Food Court,Large,No
